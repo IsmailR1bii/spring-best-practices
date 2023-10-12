@@ -1,6 +1,6 @@
 package com.example.registerlogin.entities;
 
-import com.example.registerlogin.enums.RoomType;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
